@@ -1,7 +1,7 @@
 module.exports = {
-  AppId: '1257090014',
-  SecretId: 'AKIDmNingKSqjLi04snlsjJdhV2JM9fvxgAS',
-  SecretKey: 'FH7k9LK6ez71iBSVM0QddQ0PbcR4UgfQ'
+  AppId: 'xxxxx',
+  SecretId: 'xxxxxxx',
+  SecretKey: 'xxxxx'
 };
 
 
